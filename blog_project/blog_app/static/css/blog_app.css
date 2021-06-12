@@ -1,0 +1,49 @@
+/* codepen css preloader */
+.techfont{
+    font-family: 'Lemon', cursive;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.bigbrand{
+    font-size: 1.5em;
+}
+
+.centerstage{
+    margin-left: auto;
+    margin-right: auto;
+}
+/* add a .loader css from codepen  */
+
+.postdate{
+    text-align: center;
+}
+
+.posttitle{
+    font-family: 'Lemon', cursive;
+    font-size: 3em;
+    text-align: center;
+}
+
+.postcontent{
+    font-family: 'Montserrat';
+    font-size: 1.5em;
+}
+.btn-comment{
+    position: absolute;
+    right: 0px;
+}
+
+
+/* COLOR CHANGER BELOW */
+.loader{
+    filter: hue-rotate(0deg);
+    color: linear-gradient(45deg, #0f8,#08f);
+    animation:hue 10000ms infinite linear;
+}
+.test {
+    background-image: url('../css/blog_image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
