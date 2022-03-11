@@ -1,4 +1,4 @@
-# blog_website
+# Blog Website
 
 # About
 * User can login and create their own Blogs.
